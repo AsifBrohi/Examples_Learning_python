@@ -5,4 +5,4 @@ Hi, everyone this is my examples of learning python.
 
 Ive used jupyter notebook to represent sample data. 
 
-In the form of a graphs.
+In the form of graphs.
